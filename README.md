@@ -1,3 +1,3 @@
 # Mosh Education
 
-## React apps
+Some React apps...
